@@ -10,4 +10,4 @@ Skills: NLP/python/PyTorch/Swift
 ![Visitor Count](https://profile-counter.glitch.me/ra1028/count.svg)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jamfly&show_icons=true)
-![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ra1028&layout=compact)
+![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamfly&layout=compact)
