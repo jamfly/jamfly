@@ -1,5 +1,5 @@
 ### Hi there 👋, It's Jamfly
-#### I am student intern at field of NLP
+#### I am student intern in the field of NLP
 
 Skills: NLP/python/PyTorch/Swift
 
