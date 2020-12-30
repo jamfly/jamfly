@@ -3,7 +3,7 @@
 
 Skills: NLP/python/PyTorch/Swift
 
-🔭 I’m currently working on Phoneme based Speech translation / Emotion aware QA chatbot 
+🔭 I’m currently working on Phoneme based Speech translation / Emotion aware QA chatbot <br>
 🌱 I’m currently learning Graph CNN
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jamfly)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/鄭耀飛/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jamfly37)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jamfly.github.io/)  
