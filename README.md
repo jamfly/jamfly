@@ -1,7 +1,7 @@
 ### Hi there 👋, It's Jamfly
 #### I am a student intern in the field of NLP
 
-Skills: NLP/python/PyTorch/Swift
+Skills: NLP/Python/PyTorch/PySpark/Swift
 
 🔭 I’m currently working on Phoneme based Speech translation / Emotion aware QA chatbot <br>
 🌱 I’m currently learning Graph CNN
