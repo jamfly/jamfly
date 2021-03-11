@@ -3,10 +3,10 @@
 
 Skills: NLP/Python/PyTorch/PySpark/Swift
 
-🔭 I’m currently working on Phoneme based Speech translation / Emotion aware QA chatbot <br>
-🌱 I’m currently learning Graph CNN
+🔭 I’m currently working on low-resource Speech Translation / Document and Sentence similarity <br>
+🌱 I’m currently learning x-bar theory
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jamfly)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/鄭耀飛/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jamfly37)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jamfly.github.io/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jamfly)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/freddy-cheng/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jamfly37)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jamfly.github.io/)  
 
 ![Visitor Count](https://profile-counter.glitch.me/ra1028/count.svg)
 
